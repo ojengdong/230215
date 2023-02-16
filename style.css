@@ -1,0 +1,27 @@
+/* .alertbox {
+    padding: 20px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.blue {
+    background-color: deepskyblue;
+} */
+
+.box1 {
+    background-color: deepskyblue;
+}
+
+.box2 {
+    background-color: yellow;
+}
+
+.box3 {
+    background-color: lightgray;
+}
+
+.all {
+    padding: 20px;
+    border-radius: 5px;
+    margin: 5px;
+}
