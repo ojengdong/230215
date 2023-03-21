@@ -58,3 +58,9 @@ function AllBox1() {
         e.style.display = 'block';
     }) 
 }
+
+function AllBox2() {
+    document.querySelectorAll('.all').forEach(function(c){
+        c.style.display = 'none';
+    })
+}
